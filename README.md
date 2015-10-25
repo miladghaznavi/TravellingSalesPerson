@@ -1,5 +1,5 @@
 # TravellingSalesPerson
-This project implements an exact solution for Traveling Sales Person (TSP) problem. The solution is an efficient implementation of "Solution of a large scale traveling salesman problem" [1]. To run this program, the cplex library for solving the linear program is required.
+This project implements an exact solution for Traveling Sales Person (TSP) problem. The solution is an efficient implementation of "Solution of a large scale traveling salesman problem" [1] which uses the Branch and Bound technique to round up the linear solutions. To run this program, the cplex library for solving the linear program is required.
 
 ## Files
 This project contains three header files:

@@ -51,6 +51,7 @@ int main() {
   return 0;
 }
 ```
+File "main.cpp" contains a command line program that allows you to interactively works with this implementation. For more information please look at this file.
 
 [1] G.B.Dantzig, D.R.Fulkerson, and S.M.Johnson, Solution of a large scale traveling salesman problem, Technical Report P-510, RAND Corporation, Santa Monica, California, USA, 1954.
 
